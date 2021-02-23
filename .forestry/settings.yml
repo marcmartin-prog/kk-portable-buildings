@@ -5,6 +5,14 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/inventory
+  label: Current Inventory
+  create: all
+  match: "**/*"
+  new_doc_ext: ".html"
+- type: heading
+  label: Buildings
+- type: directory
   path: content
   label: Pages
   create: all
