@@ -1,8 +1,8 @@
 ---
 layout: product
-title: 10x16 Classic Lofted Garden Barn
+title: 10x16 Classic Lofted Garden Barn (Clearance)
 date: 2022-05-17T13:49:11.276Z
-featuredImg: images/thumb-960-accf7268-5803-4e4a-9736-7222e485a7b1.jpeg
+featuredImg: images/20220706_162255.jpg
 imgAlt: lofted garden barn in stock
 Categories: inventory
 description: The Lofted Garden Barn is an attractive, useful addition to your
@@ -17,4 +17,5 @@ standardFeatures:
   - (2) 24x27 Aluminum Windows
   - U-Shaped Loft
   - Radiant Barrier Roof Decking
+  - "New Price: $9150   SALE PRICE: $7000+tax"
 ---
