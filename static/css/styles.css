@@ -890,7 +890,7 @@ select{
   margin: 1.5rem 0 2rem;
 }
 
-.product-hero>picture>img{
+.product-hero>div>picture>img{
   width: 100vw;
   left: var(--neg-padding);
   height: unset;
