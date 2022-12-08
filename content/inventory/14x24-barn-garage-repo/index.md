@@ -10,4 +10,5 @@ standardFeatures:
   - 9x7 Garage Door
   - 9 Lite House Door
   - Heavy Duty Floor
+  - "New Price: $15,000+ REPO PRICE: $9,500"
 ---
