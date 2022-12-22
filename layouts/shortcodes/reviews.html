@@ -1,6 +1,6 @@
  <div class="reviews-parent">
-
-{{ $reviews := getJSON "https://api.app.outscraper.com/maps/reviews-v3?query=ChIJDVOmd77XdogRLMtSYa9Qrc4&reviewsLimit=12&async=false" (dict "X-API-KEY" "YXV0aDB8NjM2MjU2Y2Y5MWJkYjhlZDdjYmRhMGEwfDMxZWIyOWI4YmQ") }}
+{{ $query := getJSON "https://api.app.outscraper.com/maps/reviews-v3?query=ChIJDVOmd77XdogRLMtSYa9Qrc4&reviewsLimit=15" (dict "X-API-KEY" "YXV0aDB8NjM2MjU2Y2Y5MWJkYjhlZDdjYmRhMGEwfDMxZWIyOWI4YmQ")}}
+{{ $reviews := getJSON $query.results_location }}
   <div class="reviews-slider disable-scrollbars">
     {{ $reviewsData := $reviews.data }}
     {{ $data_first := index $reviewsData 0 }}
@@ -18,7 +18,7 @@
 
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><h5 class="rev-name"> {{ .author_title }} </h5></span></span>
 
-      <p class="rev-date"> {{ .review_datetime_utc }} </p>
+      <p class="rev-date"> {{ time.Format "Jan 2, 2006" .review_datetime_utc }} </p>
 
 
     </div>
@@ -29,3 +29,29 @@
   <img src="/images/rev-arrow.svg" alt="" id="right-arrow">
   <a href="https://g.page/r/CSzLUmGvUK3OEA0/review" target="_blank" class="main--btn">Leave Feedback</a>
 </div>
+
+<script type="text/javascript">
+
+  //adds the correct amount of stars to the review
+   let reviews = document.querySelectorAll('.review')
+   var i;
+
+   for(i=0; i < reviews.length; i++){
+     reviews[i].classList.add(i)
+   }
+
+   for (i=0; i<15; i++){
+     review = document.getElementsByClassName(i)
+     let rating = review[0].children[3].innerHTML
+     let ratingNumber = Number(rating);
+     let starParent = review[0].children[0];
+     for (r=0; r<ratingNumber; r++){
+       starParent.innerHTML += "<img src='/images/star.svg' alt='star rating'>"
+     }
+
+
+
+   }
+
+
+</script>
