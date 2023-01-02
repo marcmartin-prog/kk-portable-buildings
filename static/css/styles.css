@@ -957,6 +957,10 @@ select{
   display: block;
 }
 
+.rating{
+  margin: 10px auto;
+}
+
 .reviews{
   background-size: cover;
   padding: 5.1rem var(--padding) 2.5rem;

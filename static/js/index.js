@@ -210,21 +210,6 @@ const FloatLabel = (() => {
 FloatLabel.init();
 
 
-//star elements on Reviews
-
-const rating = document.querySelectorAll('.rating');
-
-
-rating.forEach((element) => {
-  const ratingEl = document.querySelector('.rating').innerText;
-  let ratingNumber = parseInt(ratingEl);
-
-  for(let i = 0; i < ratingNumber; i++){
-    const star = document.createElement('img');
-    star.src = '/images/star.svg';
-    star.alt = 'review star';
-  }
-});
 
 
 // Load this script after everything else (document is ready)

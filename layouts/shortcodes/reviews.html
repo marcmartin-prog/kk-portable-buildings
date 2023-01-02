@@ -11,7 +11,7 @@
 
       <p class="rev-text light regular"> <span itemprop="reviewBody"> {{ .review_text }} </span> </p>
       <div class="rating">
-        <p hidden class='rating-number'> {{ .review_rating }}</p>
+        <p hidden class='rating-number'>{{ .review_rating }}</p>
       </div>
 
       <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><h5 class="rev-name"> {{ .author_title }} </h5></span></span>
@@ -37,12 +37,14 @@
    for(i=0; i < reviews.length; i++){
      reviews[i].classList.add(i)
    }
+   
 
-   for (i=0; i<15; i++){
+   for (i=0; i<20; i++){
+    
      review = document.getElementsByClassName(i)
-     let rating = review[0].children[3].innerHTML
-     let ratingNumber = Number(rating);
-     let starParent = review[0].children[0];
+     let rating = review[0].children[2].children[0].innerHTML;
+     let ratingNumber = Number(rating)
+     let starParent = review[0].children[2];
      for (r=0; r<ratingNumber; r++){
        starParent.innerHTML += "<img src='/images/star.svg' alt='star rating'>"
      }
