@@ -1,22 +1,22 @@
  <div class="reviews-parent">
 
-  {{ $reviews := getJSON (printf "https://maps.googleapis.com/maps/api/place/details/json?place_id=ChIJDVOmd77XdogRLMtSYa9Qrc4&fields=review&key=%s" site.Params.google.key )}}
+  {{ $reviews := getJSON "/data/reviews.json" }}
   <div class="reviews-slider disable-scrollbars">
-     {{ range $reviews.result.reviews}}
+     {{ range $reviews }}
 
 
     <div  id="_review8" itemprop="review" itemscope itemtype="http://schema.org/Review" class="review">
 
-      <img src="{{ .profile_photo_url }}" alt="review profile photo"class='rev-profile' loading="lazy" referrerpolicy="no-referrer">
+      <img src="{{ .author_image }}" alt="review profile photo"class='rev-profile' loading="lazy" referrerpolicy="no-referrer">
 
-      <p class="rev-text light regular"> <span itemprop="reviewBody"> {{ .text }} </span> </p>
+      <p class="rev-text light regular"> <span itemprop="reviewBody"> {{ .review_text }} </span> </p>
       <div class="rating">
-        <p hidden class='rating-number'> {{ .rating }}</p>
+        <p hidden class='rating-number'> {{ .review_rating }}</p>
       </div>
 
-      <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><h5 class="rev-name"> {{ .author_name }} </h5></span></span>
-
-      <p class="rev-date"> {{ .relative_time_description }} </p>
+      <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name"><h5 class="rev-name"> {{ .author_title }} </h5></span></span>
+      <br>
+      <p class="rev-date"> {{ .review_date_time_utc }} </p>
 
 
     </div>
