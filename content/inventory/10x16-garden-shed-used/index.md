@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 10x16 Garden Shed(USED)
+title: 10x16 Garden Shed (USED)
 date: 2023-01-16T17:54:17.590Z
 featuredImg: images/20221222_175155702_ios.jpg
 imgAlt: "1016"
