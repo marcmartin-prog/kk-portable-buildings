@@ -1665,7 +1665,7 @@ box-shadow: 0px 2px 4px 6px #EBEBEB;
    margin-top: 1rem;
  }
  .product-hero picture>img{
-   left: 0;
+   left: 0!important;
    width: unset;
    max-width: 50vw;
    max-height: 55vh;
