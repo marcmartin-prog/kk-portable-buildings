@@ -14,5 +14,5 @@ standardFeatures:
   - Scoop Wave Slide
   - Rock Climb
   - Picnic Table Kit
-  - "New Price: $5,228   SALE PRICE: $4,443"
+  - $5,518
 ---
