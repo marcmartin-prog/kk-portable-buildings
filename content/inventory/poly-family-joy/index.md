@@ -12,5 +12,5 @@ standardFeatures:
   - 20 Yr Warranty Poly Construction
   - Wave Slide
   - Cargo Net
-  - "New Price: $4,219  SALE PRICE: $3,587"
+  - $4,357
 ---
