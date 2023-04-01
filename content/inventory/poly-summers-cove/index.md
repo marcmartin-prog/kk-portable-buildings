@@ -11,5 +11,5 @@ description: This sturdy wooden swing set is an ideal way to add excitement to
 standardFeatures:
   - 20 Yr Warranty Poly Construction
   - Wave Slide
-  - "New Price: $2,902  SALE PRICE: $2,467"
+  - $2,941
 ---
