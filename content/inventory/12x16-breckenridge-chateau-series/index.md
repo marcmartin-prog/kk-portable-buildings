@@ -12,6 +12,7 @@ description: The Breckenridge is a beautiful portable storage shed that would
   items.
 standardFeatures:
   - 15 Yr Blanket Warranty
+  - Board And Batten Siding
   - 6ft Chateau Doors w/Transom Windows and Aluminum Windows
   - (3) 24x36 Windows w/Shutters
   - 4x12 Loft
