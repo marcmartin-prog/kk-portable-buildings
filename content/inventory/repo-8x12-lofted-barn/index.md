@@ -12,9 +12,9 @@ standardFeatures:
     Double Loft
   - Window
   - |-
-    $3500+tax,
-    36 Month RTO: $177.43,
-    60 Month RTO: $141.94
+    $2985+tax,
+    36 Month RTO: $151.32,
+    60 Month RTO: $121.06
   - Free Delivery within 50 Miles
 galleryImages:
   - images/20230801_140847298_ios.jpg
