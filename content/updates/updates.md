@@ -1,8 +1,9 @@
 ---
-display: hidden
+display: visible
 title: Updates
-heading: Large Inventory of USED Buildings!!!!
+heading: ALL OPTIONS ARE FREE!! Up to 10% of total cost *Ask for Details,
+  exclusions apply
 date: 2022-05-23T17:38:55.242Z
-featuredImg: 20221201_134829.jpg
-description: 10% Off all Used Buildings   *Repos not included
+featuredImg: 10-off-.jpg
+description: A﻿ll options are free up to 10% of total cost. Doors are not included
 ---
