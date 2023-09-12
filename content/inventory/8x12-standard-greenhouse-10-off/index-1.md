@@ -3,7 +3,7 @@ layout: product
 title: 8x12 "Standard" Greenhouse 10% OFF
 date: 2023-09-12T15:16:46.042Z
 featuredImg: images/20230912_142813775_ios.jpg
-imgAlt: 812ghs
+imgAlt: 812greenhouse
 Categories: inventory
 description: Want to extend your gardening season? This is the perfect
   greenhouse for your backyard!
