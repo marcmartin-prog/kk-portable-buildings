@@ -6,7 +6,8 @@ featuredImg: images/20230912_142851059_ios.jpg
 imgAlt: 812PGHS
 Categories: inventory
 description: Want to extend your gardening season? This is the perfect
-  greenhouse for your backyard!
+  greenhouse for your backyard! Now is the time to get those plants inside
+  before winter!
 standardFeatures:
   - Upgraded Aluminum Storm Door
   - Stained Wainscot and Interior
