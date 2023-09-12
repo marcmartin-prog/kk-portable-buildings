@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 8x12 "Standard" Greenhouse 10% OFF
+title: 8x12 "Premium" Greenhouse 10% OFF
 date: 2023-09-12T14:26:22.293Z
 featuredImg: images/20230912_142851059_ios.jpg
 imgAlt: 812ghs
