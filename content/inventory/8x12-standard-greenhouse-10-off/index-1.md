@@ -12,6 +12,7 @@ standardFeatures:
   - Double Plant Shelves w/Potting Sink
   - Roof Vent
   - "Was: $4999+tax 10% OFF Now: $4499+tax"
+  - No Rent to Own Available
 galleryImages:
   - images/20230912_142829626_ios.jpg
   - images/20230912_142838271_ios.jpg
