@@ -13,7 +13,8 @@ standardFeatures:
   - Roost
   - Chicken Door with Ramp
   - 20 Mile Free Delivery
-  - $2,072+tax
+  - "Was: $2,072+tax"
+  - "NOW: $1,765+tax"
 galleryImages:
   - images/20230213_174629499_ios.jpg
   - images/20230213_174704635_ios.jpg
