@@ -12,6 +12,8 @@ description: The Lofted Barn has two (2) lofts that are positioned where you
   equipment of all kinds if you don’t want them in your garage. Add a shelf or
   two to make the most of your storage.
 standardFeatures:
+  - "Was: $ 6755.56"
+  - "SALE: $ 6080.00"
   - 10 Yr Top to Bottom Warranty
   - 6' Classic Double Doors
   - 24x27 Aluminum Window
