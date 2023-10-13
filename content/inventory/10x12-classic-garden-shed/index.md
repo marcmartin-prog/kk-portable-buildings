@@ -11,6 +11,8 @@ description: The Garden Shed is an attractive, portable storage shed that will
   you’ve got a wonderful place in which you can do your hobby. You can add a
   tool organizer to make even better use of your space.
 standardFeatures:
+  - "Was: $6,211.16"
+  - "SALE: $5,590.46"
   - 10 Yr Top to Bottom Warranty
   - 5ft American Double Doors w/Transom windows and Door Keepers
   - Ridge Ventilation
