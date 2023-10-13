@@ -11,6 +11,8 @@ description: The Breckenridge is a beautiful portable storage shed that would
   provides added storage space for your Christmas decorations and other seasonal
   items.
 standardFeatures:
+  - "Was: $15,202.00"
+  - "SALE: $12,922"
   - 15 Yr Blanket Warranty
   - Board And Batten Siding
   - 6ft Chateau Doors w/Transom Windows and Aluminum Windows
@@ -20,8 +22,6 @@ standardFeatures:
   - Exclusive Heavy Duty Handle
   - 8'' Overhangs
   - Ridge Ventilation
-  - "Was: $15,202.00"
-  - "SALE: $12,922"
 galleryImages:
   - images/20230406_201646743_ios.jpg
   - images/20230406_201857122_ios.jpg
