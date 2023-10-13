@@ -21,6 +21,8 @@ standardFeatures:
     Industry Leading Construction;
     Floor Joist, Studs, and Trusses on 16" Centers
   - 24x27 Aluminum Window
+  - "Was: $6,759.56"
+  - "SALE: $6,083.60"
 galleryImages:
   - images/20220706_161815.jpg
   - images/20220706_161834.jpg
