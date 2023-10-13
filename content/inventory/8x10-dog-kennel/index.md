@@ -15,6 +15,8 @@ standardFeatures:
   - 10 Year Warranty
   - Free Delivery within 50 Miles
   - High Quality Dog Door
+  - "Was: $7,939.85"
+  - "SALE: $7,145.87"
 galleryImages:
   - images/20220921_135017.jpg
   - images/20220921_135033.jpg
