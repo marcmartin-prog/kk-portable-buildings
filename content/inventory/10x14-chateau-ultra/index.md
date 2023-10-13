@@ -10,6 +10,8 @@ description: The Ultra Series is an attractive, portable storage shed that will
   perfect building to turn into a workshop. The unique trim design and dormer
   windows is what truly sets the Ultra Series apart from the rest.
 standardFeatures:
+  - "Was: $17,637.53"
+  - "SALE: $ 14,991.91"
   - 15 Yr Top to Bottom Warranty
   - Lap Siding
   - 8' Transom Dormer
