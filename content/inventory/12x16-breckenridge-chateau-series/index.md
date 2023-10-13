@@ -20,6 +20,8 @@ standardFeatures:
   - Exclusive Heavy Duty Handle
   - 8'' Overhangs
   - Ridge Ventilation
+  - "Was: $15,202.00"
+  - "SALE: $12,922"
 galleryImages:
   - images/20230406_201646743_ios.jpg
   - images/20230406_201857122_ios.jpg
