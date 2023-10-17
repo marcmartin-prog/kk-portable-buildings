@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 12x24 Cabin
+title: 12x24 Classic Cabin
 date: 2023-10-13T18:40:36.973Z
 featuredImg: images/20230914_192858237_ios.jpg
 imgAlt: 1224cab
@@ -12,6 +12,7 @@ description: The Cabin is an economical, portable building you can use as a
 standardFeatures:
   - "Was: $13,935.00"
   - "SALE: $12,541.00"
+  - 10 Yr Warranty
   - Ready to be turned into a tinyhome
   - 4Ft Porch
   - Insulated House Door and Windows
