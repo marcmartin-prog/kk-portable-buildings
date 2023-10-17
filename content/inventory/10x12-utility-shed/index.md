@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 10x12 Utility Shed
+title: 10x12 Utility Shed "Value Shed"
 date: 2023-10-13T17:50:08.436Z
 featuredImg: images/20231013_175042071_ios.jpg
 imgAlt: 1012gshd
@@ -14,7 +14,7 @@ description: The Utility Shed is the most practical, economical choice for a
 standardFeatures:
   - "Was: $4,232.00"
   - "SALE: $4,020.40"
-  - '"Value Shed"'
+  - 5 Yr Warranty
   - 5Ft Double Door
   - 50 Miles Free Delivery
 galleryImages:
