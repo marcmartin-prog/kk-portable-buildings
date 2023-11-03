@@ -10,7 +10,7 @@ description: "This 8x10 Dog Kennel is equipped to keep you pet safe and warm.
   the interior to keep them protected from the weather. "
 standardFeatures:
   - "Was: $7,939.85"
-  - "SALE: $7,145.87"
+  - "25% OFF SALE: $5,999.00"
   - Chainlink Fenced Porch
   - Insulated Dog Box
   - 30'' Man Door
