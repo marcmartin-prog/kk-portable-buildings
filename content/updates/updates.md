@@ -1,5 +1,5 @@
 ---
-display: visible
+display: hidden
 title: Updates
 heading: ALL OPTIONS ARE FREE!! Up to 10% of total cost *Ask for Details,
   exclusions apply
