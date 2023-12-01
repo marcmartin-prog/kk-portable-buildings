@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 10x14 Chateau Ultra
+title: 10x14 Chateau Ultra 25% OFF
 date: 2022-10-04T19:07:35.112Z
 featuredImg: images/20220921_135154.jpg
 imgAlt: 10x14 Chateau Ultra
@@ -11,7 +11,7 @@ description: The Ultra Series is an attractive, portable storage shed that will
   windows is what truly sets the Ultra Series apart from the rest.
 standardFeatures:
   - "Was: $17,637.53"
-  - "SALE: $ 14,991.91"
+  - "SALE: $ 13,228"
   - 15 Yr Top to Bottom Warranty
   - Lap Siding
   - 8' Transom Dormer
