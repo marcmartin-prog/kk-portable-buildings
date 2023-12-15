@@ -15,9 +15,7 @@ standardFeatures:
   - Monkey Bars
   - |
     New Price: $7667+tax,
-  - "Repo Price: $6500+tax"
-  - "24 Month RTO: $423.66"
-  - "36 Month RTO: $329.51"
+  - "Repo Price: $5,056+tax"
 galleryImages:
   - images/20230501_182614447_ios.jpg
   - images/20230803_161009903_ios.jpg
