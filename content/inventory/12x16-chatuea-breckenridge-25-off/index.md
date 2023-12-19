@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 12x16 Chatuea Breckenridge 25% OFF
+title: "♦️25% OFF♦️ 12x16 Chatuea Breckenridge "
 date: 2023-12-01T17:11:00.513Z
 featuredImg: images/20230406_201959846_ios.jpg
 imgAlt: 1216brk
@@ -19,6 +19,7 @@ standardFeatures:
   - 4ft Loft
   - Board and Batten Siding
   - 15 Yr Top to Bottom Warranty
+  - Free and Quick Delivery within 50 miles
 galleryImages:
   - images/20230406_201654678_ios.jpg
   - images/20230406_201857122_ios.jpg
