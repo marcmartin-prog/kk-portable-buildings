@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 10x14 Chateau Ultra 25% OFF
+title: "♦️25% OFF♦️ 10x14 Chateau Ultra "
 date: 2022-10-04T19:07:35.112Z
 featuredImg: images/20220921_135154.jpg
 imgAlt: 10x14 Chateau Ultra
@@ -19,6 +19,7 @@ standardFeatures:
   - (3) 30x36 Insulated Windows with Shutters and Flowerboxes
   - 12'' Overhangs
   - Ridge Ventilation
+  - Free and Quick Delivery within 50 miles
 galleryImages:
   - images/20220921_135141.jpg
   - images/20220921_135205.jpg
