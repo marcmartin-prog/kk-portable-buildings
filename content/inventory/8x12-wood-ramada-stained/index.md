@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 8x12 Wood Ramada(Stained)
+title: 8x12 Wood Ramada Gazebo
 date: 2024-02-26T18:41:04.769Z
 featuredImg: images/20240226_164843837_ios.jpg
 imgAlt: 812ramg
