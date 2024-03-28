@@ -12,6 +12,7 @@ standardFeatures:
   - 6ft Double Doors
   - 8ft of Loft area
   - Free delivery within 50 miles
+  - NO WARRANTY/SOLD AS-IS
 galleryImages:
   - images/20240328_163305001_ios.jpg
   - images/20240328_163316069_ios.jpg
