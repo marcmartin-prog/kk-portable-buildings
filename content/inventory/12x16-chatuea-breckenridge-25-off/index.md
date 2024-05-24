@@ -1,6 +1,6 @@
 ---
 layout: product
-title: "♦️25% OFF♦️ 12x16 Chatuea Breckenridge "
+title: "♦️35% OFF♦️ 12x16 Chatuea Breckenridge "
 date: 2023-12-01T17:11:00.513Z
 featuredImg: images/20230406_201959846_ios.jpg
 imgAlt: 1216brk
@@ -11,8 +11,9 @@ description: The Breckenridge is a beautiful portable storage shed that would
   provides added storage space for your Christmas decorations and other seasonal
   items.
 standardFeatures:
+  - Sale Prices Good Till June 1
   - "Was: $15,202"
-  - "Sale: $11,401"
+  - "Sale: $9,881+tax"
   - 6ft Double Doors w/Transom Windows
   - Aluminum Ramp Set
   - (3) - 24x36 Windows w/Shutters
