@@ -8,7 +8,7 @@ Categories: inventory
 description: "USED: 8x12 in great condition"
 standardFeatures:
   - $2,500+tax
-  - "Rent to own: 2yr: $163/Month, 3yr: $127/Month, 4yr: $144/Month, 5yr:
+  - "Rent to own: 2yr: $163/Month, 3yr: $127/Month, 4yr: $114/Month, 5yr:
     $101/Month"
   - Delivery included up to 50 miles
 galleryImages:
