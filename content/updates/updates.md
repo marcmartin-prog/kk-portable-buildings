@@ -1,5 +1,5 @@
 ---
-display: visible
+display: hidden
 title: updates
 heading: 10% OFF ALL BUILDINGS ON THE LOT
 date: 2024-08-09T21:01:46.050Z
