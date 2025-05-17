@@ -12,7 +12,7 @@ standardFeatures:
   - $29,500+tax
   - Chink Style Log with Hand Hewn face
   - Spray Foam insulated floor
-  - 200 amp electrical package
+  - 100 amp electrical package
   - Insulated House Door and Windows
   - Evergreen Metal Roof
 galleryImages:
