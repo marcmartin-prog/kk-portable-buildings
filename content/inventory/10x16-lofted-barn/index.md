@@ -8,13 +8,13 @@ Categories: inventory
 description: This 10x16 lofted barn features a spacious interior with overhead
   loft storage and a convenient 6-foot door for easy access to larger items.
 standardFeatures:
-  - $5,785+tax
+  - $5,880+tax
   - |-
     Rent to Own:
-    24 Month	$377.06,
-    36 Month	$293.27,
-    48 Month	$263.94,
-    60 Month	$234.61
+    24 Month	$383.25,
+    36 Month	$298.08,
+    48 Month	$268.28,
+    60 Month	$238.47
   - 6ft Double Door
   - 12ft of Loft
   - 10 Yr  Workmanship Warranty
