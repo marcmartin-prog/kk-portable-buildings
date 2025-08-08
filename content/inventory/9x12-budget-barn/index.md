@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 9x12 Budget Barn
+title: 9x12 Budget Shed
 date: 2025-08-08T15:24:10.917Z
 featuredImg: images/20250805_132046.jpg
 imgAlt: 912BB
