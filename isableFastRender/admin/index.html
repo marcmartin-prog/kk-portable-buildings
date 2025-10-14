@@ -1,0 +1,58 @@
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title> K&K Portable Buildings Admin</title>
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="icon" type="image/png" sizes="32x32" href="/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="96x96" href="/images/favicon-96x96.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/images/favicon-16x16.png">
+</head>
+<body>
+  <!-- Include the script that builds the page and powers Netlify CMS -->
+  <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+  CMS.registerPreviewStyle("/css/styles.css");
+</script>
+
+<script>
+/*
+  var BuildingPreview = createClass({
+    render: function() {
+      var entry = this.props.entry;
+      var image = entry.getIn(['data', 'image']);
+      var bg = this.props.getAsset(image);
+      return h('div', {"className": "product-hero"},
+        h('h1', {}, entry.getIn(['data', 'title'])),
+        h('img', {src: bg}),
+        h('div', {"className": "text"}, this.props.widgetFor('description'))
+      );
+    }
+  });
+
+  CMS.registerPreviewTemplate("storage-building", BuildingPreview);
+  */
+</script>
+
+<script>
+/*
+  var playsetPreview = createClass({
+    render: function() {
+      var entry = this.props.entry;
+      var image = entry.getIn(['data', 'image']);
+      var bg = this.props.getAsset(image);
+      return h('div', {"className": "product-hero"},
+        h('h1', {}, entry.getIn(['data', 'title'])),
+        h('img', {src: bg.toString()}),
+        h('div', {"className": "text"}, this.props.widgetFor('description'))
+      );
+    }
+  });
+
+  CMS.registerPreviewTemplate("playset", playsetPreview);
+  */
+</script>
+
+</body>
+</html>

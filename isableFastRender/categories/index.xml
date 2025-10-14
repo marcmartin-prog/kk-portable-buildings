@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on KK Portable Buildings | Premium Portable Buildings and Outdoor Living</title>
+    <link>http://localhost:1313/categories/</link>
+    <description>Recent content in Categories on KK Portable Buildings | Premium Portable Buildings and Outdoor Living</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 Oct 2025 20:05:53 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>inventory</title>
+      <link>http://localhost:1313/categories/inventory/</link>
+      <pubDate>Fri, 10 Oct 2025 20:05:53 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/inventory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hunting-blind</title>
+      <link>http://localhost:1313/categories/hunting-blind/</link>
+      <pubDate>Fri, 06 May 2022 17:56:01 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/hunting-blind/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>playset</title>
+      <link>http://localhost:1313/categories/playset/</link>
+      <pubDate>Wed, 04 May 2022 18:00:07 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/playset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dutch Country</title>
+      <link>http://localhost:1313/categories/dutch-country/</link>
+      <pubDate>Thu, 28 Apr 2022 18:08:03 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/dutch-country/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Classic</title>
+      <link>http://localhost:1313/categories/classic/</link>
+      <pubDate>Thu, 28 Apr 2022 17:40:55 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chateau</title>
+      <link>http://localhost:1313/categories/chateau/</link>
+      <pubDate>Thu, 21 Apr 2022 17:57:08 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/chateau/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
