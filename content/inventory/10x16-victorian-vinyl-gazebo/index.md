@@ -1,6 +1,6 @@
 ---
 layout: product
-title: 10x16 Victorian Vinyl Gazebo
+title: "!Reduced! 10x16 Victorian Vinyl Gazebo"
 date: 2023-11-09T21:42:58.029Z
 featuredImg: images/20231109_214102299_ios.jpg
 imgAlt: 1016gazebo
@@ -8,7 +8,7 @@ Categories: inventory
 description: "The Victorian Gazebo is a spacious outdoor and bug-free area to
   enjoy the beauty of God's creation. "
 standardFeatures:
-  - $10,045+tax
+  - "Was: $10,045+tax, NOW: $9,040+tax"
   - Vinyl Model(Maintenance Free)
   - Composite Floor
   - Screen Kit w/Door
