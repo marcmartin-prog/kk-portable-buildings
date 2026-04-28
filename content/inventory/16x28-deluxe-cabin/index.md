@@ -8,7 +8,9 @@ Categories: inventory
 description: This charming cabin is the perfect retreat, whether nestled by a
   serene lake or tucked away in the heart of the woods.
 standardFeatures:
-  - $16,492+tax
+  - |-
+    Now: $14,774+tax
+    Was: $16,492+tax
   - 6 - 3x3 Insulated Windows and Insulated House Door
   - 4ft Porch with Composite Decking
   - Delivery Included up to 50 miles
